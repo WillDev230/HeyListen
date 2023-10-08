@@ -26,7 +26,7 @@ Lo lograremos brindandoles comodidades para encontrar objetos o lugares  especif
 * ### Caja Negra
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/CajaNegra/CajaNegra1.drawio.png" height="150" >
 * ### Caja Negra Con Tecnologia
-   <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/CajaNegra/imagen_2023-10-07_174850021.png" height="200" >
+   <img scr="https://github.com/WillDev230/HeyListen/blob/main/CajaNegra/imagen_2023-10-07_192054548.png" height="200" >
    
 * ### Bocetos
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Bocetos/WhatsApp%20Image%202023-09-03%20at%206.33.06%20PM.jpeg" height="500" > 
