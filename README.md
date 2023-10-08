@@ -35,4 +35,19 @@ Lo lograremos brindandoles comodidades para encontrar objetos o lugares  especif
 <h1>Funcionamiento</h1>
 consta de una serie de pulsadores con inscripciones en braile para su identificacion, que al ser accionados emitiran una señal, que al ser captada por otro receptor emitira un sonido durante un lapso de tiempo de 6 segundos, para que el usuario pueda ubicar su el elemento desedado
   
+<h1>Aplicaciones</h1>
+Las aplicaciones especificas pueden ser distintas y muy variadas pero para que en verdad sea de gran utilidad se presentan tres aplicaciones. 
 
+
+### 1. Lazarillo 
+
+Ponerle un rastreador a un baston sera de gran utilidad, pues este es un objeto relevante para las personajes de baja vision, y tambien un objeto que se puede caer o perder facilmente. No obstante para esto tendriamos que hacer que el dispositivo sea movil, es decir que se pueda mover para cualquier sitio. 
+
+
+### 2. Controles del televsor 
+
+De la misma manera que el anterior, estos elementos son muy faciles de perder o de refundir puesto que se utilizan bastante, entonces ponerles un rastreador a estos seria de buena utlidad
+
+### 3. Llaves
+
+Aunque podria ser incomodo, las llaves son uno de los elementos que mas se refunden, entonces ponerle un rastreador a las llaves puede ser muy util para una persona de baja vision. Asimismo estos elementos son demasiados importantes en la vida de las personas entonces poner un rastreador seria positivo. 
