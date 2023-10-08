@@ -40,7 +40,7 @@ Las aplicaciones especificas pueden ser distintas y muy variadas pero para que e
 
 
 ### 1. Lazarillo 
-Ponerle un rastreador a un baston sera de gran utilidad, pues este es un objeto relevante para las personajes de baja vision, y tambien un objeto que se puede caer o perder facilmente. No obstante para esto tendriamos que hacer que el dispositivo sea movil, es decir que se pueda mover para cualquier sitio. 
+Ponerle un rastreador a un baston sera de gran utilidad, pues este es un objeto relevante para las personajes de baja vision, y tambien un objeto que se puede caer o perder facilmente. No obstante para esto tendriamos que hacer que el dispositivo que tiene el boton sea movil, es decir que sea comodo y que no sea tan grande lo que puede ser un reto. 
 
 Ejemplo: 
 
