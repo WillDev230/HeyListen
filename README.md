@@ -42,6 +42,11 @@ Las aplicaciones especificas pueden ser distintas y muy variadas pero para que e
 ### 1. Lazarillo 
 Ponerle un rastreador a un baston sera de gran utilidad, pues este es un objeto relevante para las personajes de baja vision, y tambien un objeto que se puede caer o perder facilmente. No obstante para esto tendriamos que hacer que el dispositivo sea movil, es decir que se pueda mover para cualquier sitio. 
 
+Ejemplo: 
+
+<img src="https://github.com/WillDev230/HeyListen/blob/c619dae016732f4d2af8d7fd1555ac86f837264a/Bocetos/imagen_2023-10-07_194534995.png" height="500" > 
+
+
 ### 2. Controles del televsor 
 De la misma manera que el anterior, estos elementos son muy faciles de perder o de refundir puesto que se utilizan bastante, entonces ponerles un rastreador a estos seria de buena utlidad
 
