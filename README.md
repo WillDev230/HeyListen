@@ -31,7 +31,7 @@ Lo lograremos brindandoles comodidades para encontrar objetos o lugares  especif
 * ### Bocetos
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Bocetos/WhatsApp%20Image%202023-09-03%20at%206.33.06%20PM.jpeg" height="500" > 
    <img src="https://github.com/WillDev230/HeyListen/blob/main/Bocetos/imagen_2023-09-10_204500759.png" height="500" > 
-   <img src=(https://github.com/WillDev230/HeyListen/blob/c5eb6d921b2e488d0447c402fc51a40e4ef69e35/Bocetos/imagen_2023-10-07_195537282.png height="500" > 
+   <img src="https://github.com/WillDev230/HeyListen/blob/3ab792ce60afe34c5c9e13e6d5f94a31c4895d99/Bocetos/imagen_2023-10-07_195537282.png" height="500" > 
 
    
 <h1>Funcionamiento</h1>
