@@ -27,7 +27,7 @@ Lo lograremos brindandoles comodidades para encontrar objetos o lugares  especif
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/CajaNegra/CajaNegra1.drawio.png" height="150" >
 * ### Caja Negra Con Tecnologia
    <img src="https://github.com/WillDev230/HeyListen/blob/e564cb01287fb8ccd52698d43dc8a1e0816349ce/CajaNegra/imagen_2023-10-07_192054548.png" height="500" >
-   Para entender mejor, se puede ver los bocetos de abajo, en especial el ultimo. 
+  <p>Para entender mejor, se puede ver los bocetos de abajo, en especial el ultimo. </p> 
 * ### Bocetos
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Bocetos/WhatsApp%20Image%202023-09-03%20at%206.33.06%20PM.jpeg" height="500" > 
 
@@ -53,7 +53,7 @@ Ejemplo:
 <img src="https://github.com/WillDev230/HeyListen/blob/c619dae016732f4d2af8d7fd1555ac86f837264a/Bocetos/imagen_2023-10-07_194534995.png" height="500" > 
 
 
-### 2. Controles del televsor 
+### 2. Controle del televisor 
 De la misma manera que el anterior, estos elementos son muy faciles de perder o de refundir puesto que se utilizan bastante, entonces ponerles un rastreador a estos seria de buena utlidad
 
 ### 3. Llaves
