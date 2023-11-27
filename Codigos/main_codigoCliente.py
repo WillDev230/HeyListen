@@ -37,4 +37,4 @@ try:
         sleep(1)
         print(pulsador_pin.value())
 except:
-    print("esteban puto")
+    print("esteban")
