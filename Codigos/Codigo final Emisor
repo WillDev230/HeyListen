@@ -1,0 +1,57 @@
+from time import sleep
+import socket
+import network
+import machine
+
+# Configura la red Wi-Fi
+WIFI_SSID = "PC"
+WIFI_PASSWORD = "123456789"
+pulsador_pin = machine.Pin(25, machine.Pin.IN, machine.Pin.PULL_UP)
+led_pin = machine.Pin(14, machine.Pin.OUT)  # Configura el LED en el GPIO 2 como salida
+extra_led_pin = machine.Pin(12, machine.Pin.OUT)
+
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+# Configura la dirección IP y el puerto del servidor al que te conectarás
+server_address = ("192.168.137.142", 12345)  # Cambia la dirección IP al del servidor
+
+# Conéctate a la red Wi-Fi
+wifi = network.WLAN(network.STA_IF)
+wifi.active(True)
+wifi.connect(WIFI_SSID, WIFI_PASSWORD)
+
+while not wifi.isconnected():
+    pass
+
+print("Conexión Wi-Fi establecida")
+
+# Enciende y apaga el LED 10 veces
+for _ in range(5):
+    led_pin.on()
+    sleep(1)
+    led_pin.off()
+    sleep(1)
+
+# Conéctate al servidor
+client_socket.connect(server_address)
+
+try:
+    while True:
+       
+        # Verifica el estado del pulsador
+        if pulsador_pin.value() == 0:
+            extra_led_pin.on()  # Enciende el LED adicional en el GPIO 5
+            sleep(1)
+            extra_led_pin.off()  # Apaga el LED adicional después de 1 segundo
+       
+       
+        # Envía datos al servidor
+        if pulsador_pin.value() == 0:  # 0 significa que se presionó el pulsador (debido al resistor pull-up)
+            message = "1"
+        else:
+            message = "2"
+        client_socket.send(message.encode('utf-8'))
+        sleep(1)
+        print(pulsador_pin.value())
+except:
+    print("No conexión")
